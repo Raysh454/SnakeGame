@@ -47,8 +47,8 @@ void genApplePos(){
         for(Snake *ptr = snake; ptr != NULL; ptr = ptr->next){
             if(snakeEat(ptr, apple))
                 break;
-            overlap = 0;
         }
+        overlap = 0;
     }
         
 }
