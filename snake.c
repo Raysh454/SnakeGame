@@ -56,6 +56,7 @@ void freeTurns() {
 void initSnake() {
     freeSnake();
     freeTurns();
+    score = 0;
     appendNode(&snake, 100, 200, WIDTH, HEIGHT, 0, 0, 1, 0, textures.head);
     appendNode(&snake, 100, 173, 21, HEIGHT, 0, 0, 1, 0, textures.tail);
 }
