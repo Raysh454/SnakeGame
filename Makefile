@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -g
+CFLAGS = -Wall
 LINKS = -lSDL2 -lSDL2_image -l SDL2_ttf
 OUTFILE = snake
 INFILE = main.c
