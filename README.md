@@ -36,7 +36,15 @@ This project showcases a Snake game developed using the SDL2 library in C. The g
 2. Download the additional files from [this link](https://drive.google.com/drive/folders/1j1jP1DlUUA66BoUBQLa6dP9c52CbiGYB) and place them in the same directory as the cloned repository files.
 
 3. Compile the game:
+4. 
+    Linux:
+   
+    ```bash
+    make
+    ```
+    Windows:
 
+   
     ```bash
     gcc -std=c99 main.c -I SDL2 -L lib -Wall -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -mwindows -o main.exe
 
