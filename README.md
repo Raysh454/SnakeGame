@@ -70,7 +70,3 @@ Use arrow keys to control the snake and mouse to navigate the menu.
 
 - Arrow keys: Move the snake
 - Escape key: Open/close menu
-
-### Collaboration
-
-This project was a collaborative effort between [Huz](https://github.com/HuzPro) and [Shehryar](https://github.com/Raysh454). Both contributors worked together to develop and refine various aspects of the game, including gameplay, graphics, and functionality.
